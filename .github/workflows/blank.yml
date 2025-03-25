@@ -52,7 +52,7 @@ jobs:
 
       # Runs a single command using the runners shell 
 
-      - name: Run CAN4SWSE
+      - name: Run CANoe4SWSE
 
         shell: powershell 
 
