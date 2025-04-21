@@ -56,4 +56,4 @@ jobs:
 
         shell: powershell 
 
-        run: C:/PND/POC/Benz/Python/CANoe4SWSE/SOMEIPBasicAutosar/run.ps1
+        run: D:/CANGateway/run.ps1
